@@ -6,8 +6,8 @@ I am a dedicated <strong>Front-End Developer</strong> with a strong drive to lea
 
 ### 📱 Get in Touch
 <p align="left">
-  <a href="https://linkedin.com/in/v-mokhun" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-mokhun linkedin" height="30" width="40" style="padding-right:10px;" /></a>
-<a href="https://twitter.com/v_mokhun" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_mokhun twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/v-mokhun" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-mokhun linkedin" height="30" width="40" style="padding-right:10px;" /></a>
+<a href="https://twitter.com/v_mokhun" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_mokhun twitter" height="30" width="40" /></a>
 </p>
 <br />
 
