@@ -1,6 +1,6 @@
 # 🧑‍💻 Volodymyr Mokhun
 
-I am a dedicated <strong>Front-End Developer</strong> with a strong drive to learn and improve. Currently pursuing a bachelor's degree in computer science, I have a solid foundation in programming, web development, and a knack for creating user-friendly, responsive, and performant websites.
+I am a dedicated <strong>Software Engineerr</strong> with a strong drive to learn and improve. Currently pursuing a bachelor's degree in computer science, I have a solid foundation in programming, web development, and a knack for creating user-friendly, responsive, and performant websites.
 
 💼 Take a look at my [Portfolio Website](https://www.v-mokhun.com/)
 
