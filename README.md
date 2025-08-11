@@ -1,13 +1,13 @@
 # 🧑‍💻 Volodymyr Mokhun
 
-I am a dedicated <strong>Software Engineerr</strong> with a strong drive to learn and improve. Currently pursuing a bachelor's degree in computer science, I have a solid foundation in programming, web development, and a knack for creating user-friendly, responsive, and performant websites.
+I am a dedicated <strong>Software Engineer</strong> with a strong drive to learn and improve. Currently pursuing a bachelor's degree in computer science, I have a solid foundation in programming, web development, and a knack for creating user-friendly, responsive, and performant websites.
 
 💼 Take a look at my [Portfolio Website](https://www.v-mokhun.com/)
 
 ### 📱 Get in Touch
 <p align="left">
   <a href="https://linkedin.com/in/v-mokhun" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="v-mokhun linkedin" height="30" width="40" style="padding-right:10px;" /></a>
-<a href="https://twitter.com/v_mokhun" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_mokhun twitter" height="30" width="40" /></a>
+<a href="https://x/v_mokhun" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_mokhun twitter" height="30" width="40" /></a>
 </p>
 <br />
 
